@@ -34,7 +34,8 @@ def StarSeven():
     
     print(f"Number of accessible paper rolls: {accessible_count}")
 
-# Main program
+
+
 if __name__ == "__main__":
     StarSeven()
     

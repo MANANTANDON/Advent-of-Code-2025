@@ -34,8 +34,10 @@ def StarSeven():
     
     print(f"Number of accessible paper rolls: {accessible_count}")
 
-
+def StarEight():
+    print("Eighth Star!")
 
 if __name__ == "__main__":
     StarSeven()
+    StarEight()
     
